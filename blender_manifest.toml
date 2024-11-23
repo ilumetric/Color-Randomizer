@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "color_randomizer"
+name = "Color Randomizer"
+version = "1.3.0"
+tagline = "Randomly assign colors to objects"
+maintainer = "Max Derksen"
+type = "add-on"
+tags = ["Object"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://blendermarket.com/products/color-randomizer"
+copyright = ["2024 Max Derksen"]
+
+
